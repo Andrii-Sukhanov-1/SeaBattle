@@ -1,2 +1,2 @@
 # SeaBattle
-Basic sea battle game implemented in Python.
+Modularisation and abstraction of the game logic; still in process.
